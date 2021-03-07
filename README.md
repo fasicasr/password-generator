@@ -9,7 +9,7 @@ Sassy password generator is an application that enables a user to generate rando
 
 # Webpage 
 
-*Sassy Password Generator 
+* Sassy Password Generator 
 ![webpage image](./Assets/spg-webpage-screenshot.png)
 
 
