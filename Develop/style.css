@@ -38,7 +38,7 @@ header {
   border: double;
   border-color: lightslategray;
   box-shadow: rgba(199, 87, 87, 0.15) 0px 2px 8px 0px;
-  color: hsl(206, 17%, 28%);
+  color: opaque; 
   font-size: 18px;
   margin: 0 auto;
   max-width: 600px;
@@ -50,8 +50,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
-  height: 2px;
+  height: 37px;
 }
 
 .card-body {
@@ -109,10 +108,10 @@ button[disabled] {
   border: none;
   display: block;
   width: 100%;
-  padding-top: 15px;
+  padding-top: 40px;
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom: 25px;
+  padding-bottom: 50px;
   font-size: 1.2rem;
   text-align: center;
   margin-top: 10px;
